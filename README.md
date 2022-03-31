@@ -28,5 +28,5 @@ Adaptive layout with resolutions:
 
 ## Troubleshooting
 
-For any contributing or problem solving you could find me [here - Telegram](https://t.me/maryberr) and [here - Email](anokhinamasha27@gmail.com)
+For any contributing or problem solving you could find me [here - Telegram](https://t.me/maryberr) and [here - Email](mailto:anokhinamasha27@gmail.com)
 
